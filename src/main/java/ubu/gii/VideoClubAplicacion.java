@@ -17,11 +17,6 @@ public class VideoClubAplicacion {
 		c1.addRental(r3);
 
 		System.out.println(c1.statement());
-		System.out.println("Esto es una prueba");
-		System.out.println("Intento 2");
-		System.out.println("Prueba 3");
-		System.out.println("Prueba 4");
-		System.out.println("Prueba 5");
 	}
 
 }
