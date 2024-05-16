@@ -20,6 +20,7 @@ public class VideoClubAplicacion {
 		System.out.println("Esto es una prueba");
 		System.out.println("Intento 2");
 		System.out.println("Prueba 3");
+		System.out.println("Prueba 4");
 	}
 
 }
